@@ -35,6 +35,12 @@ tienda-don-pedro/
 python src/main.py
 ```
 
+## Domicilios
+
+Horario: lunes a sábado, de 8:00 a.m. a 6:00 p.m.
+Cobertura: barrio Laureles
+
+
 ## Autor
 
 Juan Sebastian Gil Carmona - [juansebastian8610](https://github.com/juansebastian8610)
